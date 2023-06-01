@@ -1,3 +1,4 @@
 Bu reprostory ye herhangi bir push yapilirsa jenkins  github-webhook job otomatik tetiklenecek
 Bakalin simdi iki job da calisacak mi
 ..
+ll
