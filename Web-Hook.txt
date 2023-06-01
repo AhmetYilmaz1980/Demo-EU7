@@ -3,3 +3,4 @@ Bakalin simdi iki job da calisacak mi
 ..
 ll
 11
+Master i main yapmaliydin
