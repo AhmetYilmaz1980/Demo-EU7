@@ -1,1 +1,2 @@
 Bu job github repomuzu belirlenen periyotlarda kontrol ederek bir degisiklik oldugunda tetiklenecek
+Deneme
